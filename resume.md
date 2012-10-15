@@ -41,6 +41,7 @@ SKILLS
 * Asynchronous Text-based Communication
 * Distributed Teams
 * Git
+* Jira
 
 #### Ideology
 * Automation

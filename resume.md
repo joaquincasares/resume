@@ -103,7 +103,7 @@ Austin, Texas
 Lead support in a small team for DataStax Enterprise which fuses many big data components and tools on top of and centered on Apache Cassandra.
 
 * Work with engineers to support 16+ products across 6 different platforms
-    * Supporting ~200 organizations.
+    * Supporting 200+ organizations.
     * Primary point of contact for ~9 months.
     * Solve issues via Zendesk, public forums, IRC, mailing lists, phone calls, and remote viewing sessions.
     * Take lead on escalated cases, when needed.

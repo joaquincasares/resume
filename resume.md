@@ -162,6 +162,10 @@ Official DataStax Amazon Machine Image that began as a pet project. The AMI take
 
 Allows for the DataStax AMI to run from the command line while removing common user errors. End-to-end time to a cluster of any size is ~5 minutes. 22,000+ PyPI downloads.
 
+*   [joaquincasares/CassandraJsonMapper](https://github.com/joaquincasares/CassandraJsonMapper)
+
+Simple Apache Cassandra client that only allows save(), get(), and delete() methods on JSON-style objects mapped into Cassandra. Multi-threaded options are supported.
+
 *   [joaquincasares/zendesk_downloader](https://github.com/joaquincasares/zendesk_downloader)
 
 Efficiently downloading and extracting all Zendesk attachments for a ticket in an organized manner for local access and manipulation for everyday usage.

@@ -164,7 +164,7 @@ Allows for the DataStax AMI to run from the command line while removing common u
 
 *   [joaquincasares/CassandraJsonMapper](https://github.com/joaquincasares/CassandraJsonMapper)
 
-Simple Apache Cassandra client that only allows save(), get(), and delete() methods on JSON-style objects mapped into Cassandra. Multi-threaded options are supported.
+Apache Cassandra driver developed for direct functionality to store JSON-style objects mapped into Cassandra composite columns.
 
 *   [joaquincasares/zendesk_downloader](https://github.com/joaquincasares/zendesk_downloader)
 

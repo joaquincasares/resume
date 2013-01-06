@@ -102,7 +102,7 @@ December 2012 - Present
 *Software Engineer in Test*  
 Austin, Texas
 
-Work on an existing internal tool for the provisioning of Apache Cassandra and DataStax Enterprise (DSE) clusters
+* Work on an existing internal tool for the provisioning of Apache Cassandra and DataStax Enterprise (DSE) clusters
     * Create, update, and patch functionality for the QA team where needed and beneficial.
     * Create a new module for the regression and performance testing of Cassandra client drivers.
     * Manipulate an existing module for use in performance testing of Cassandra and DSE in Amazon's EC2 environment.

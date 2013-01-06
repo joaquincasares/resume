@@ -36,7 +36,9 @@ SKILLS
 * C/C++
 
 #### Resources
-* Amazon Web Services
+* Amazon Web Services (AWS)
+    * Elastic Cloud Computing (EC2)
+    * Simple Storage Service (S3)
 * Apache Cassandra
 * Asynchronous Text-based Communication
 * Distributed Teams
@@ -95,7 +97,18 @@ SKILLS
 WORK HISTORY
 ------------
 
-January 2011 – Present  
+December 2012 - Present  
+**DataStax**  
+*Software Engineer in Test*  
+Austin, Texas
+
+Work on an existing internal tool for the provisioning of Apache Cassandra and DataStax Enterprise (DSE) clusters
+    * Create, update, and patch functionality for the QA team where needed and beneficial.
+    * Create a new module for the regression and performance testing of Cassandra client drivers.
+    * Manipulate an existing module for use in performance testing of Cassandra and DSE in Amazon's EC2 environment.
+    * Contribute to the performance regression testing between past and future versions of Cassandra and DSE.
+
+January 2011 – January 2013  
 **DataStax**  
 *Senior Support Engineer / Cloud Tools Engineer*  
 Austin, Texas  
@@ -110,7 +123,7 @@ Lead support in a small team for DataStax Enterprise which fuses many big data c
 * Departmental infrastructure development
     * Training a team of 5 individuals.
     * Creating internal and external policies.
-    * Developing tools, cron jobs, and Zendesk widgets for internal benefit.
+    * Creating and continually developing a collection of tools, triggers, jobs, and widgets for internal benefit.
 * Administrative, Documentation, Product, and Sales team integration
     * Develop an internal knowledge base, wiki, and assorted tools across multiple departments.
     * Advise Proof of Concept leads over initial designs.
@@ -166,13 +179,17 @@ Allows for the DataStax AMI to run from the command line while removing common u
 
 Apache Cassandra driver developed for direct functionality to store JSON-style objects mapped into Cassandra composite columns.
 
+*   [joaquincasares/python-bashcomplete](http://www.github.com/joaquincasares/python-bashcomplete)
+
+Takes a Python list or dictionary input and automatically generates simple, yet functioning, bashcompletion code.
+
 *   [joaquincasares/zendesk_downloader](https://github.com/joaquincasares/zendesk_downloader)
 
 Efficiently downloading and extracting all Zendesk attachments for a ticket in an organized manner for local access and manipulation for everyday usage.
 
 *   [joaquincasares/pagerduty](https://github.com/joaquincasares/pagerduty)
 
-Everyday usage of PagerDuty notifications and widgets.
+PagerDuty API and CLI tool for displaying schedules through notifications and widgets.
 
 *   [joaquincasares/heap-calculator](https://github.com/joaquincasares/heap-calculator)
 
@@ -201,6 +218,14 @@ TRAININGS
 *   June 11-12, 2012  
     *Scaling Search with Big Data & Solr*  
     **Lucid Imagination**  
+
+------
+AWARDS
+------
+
+*   August 7, 2012
+    *2012 Engineering Customer Advocate*
+    **DataStax**
 
 ----------------------------------
 WHAT I LOOK FOR IN AN ORGANIZATION

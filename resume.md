@@ -102,8 +102,10 @@ December 2012 - Present
 *Software Engineer in Test*  
 Austin, Texas
 
+Transitioned to the Quality Assurance team of 11 engineers. In combination with manual testing, I split time developing our internal testing infrastructure.
+
 * Work on an existing internal tool for the provisioning of Apache Cassandra and DataStax Enterprise (DSE) clusters
-    * Create, update, and patch functionality for the QA team where needed and beneficial.
+    * Create, update, and patch functionality for the QA team where beneficial.
     * Create a new module for the regression and performance testing of Cassandra client drivers.
     * Manipulate an existing module for use in performance testing of Cassandra and DSE in Amazon's EC2 environment.
     * Contribute to the performance regression testing between past and future versions of Cassandra and DSE.
@@ -223,9 +225,9 @@ TRAININGS
 AWARDS
 ------
 
-*   August 7, 2012
-    *2012 Engineering Customer Advocate*
-    **DataStax**
+*   August 7, 2012  
+    *2012 Engineering Customer Advocate*  
+    **DataStax**  
 
 ----------------------------------
 WHAT I LOOK FOR IN AN ORGANIZATION

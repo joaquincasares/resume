@@ -236,5 +236,4 @@ WHAT I LOOK FOR IN AN ORGANIZATION
 * A solid technology
 * Innovative, forward-thinking team members
 * Flextime
-* Infrastructure that allows the ability to work remotely
-
+* Distributed work enviornment

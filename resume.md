@@ -237,7 +237,7 @@ ACHIEVEMENTS
     *2012 Engineering Customer Advocate*  
     **DataStax**  
 *   February 11, 2013  
-    *Top 10% most viewed LinkedIn profiles for 2012*  
+    *Top 10% Most Viewed LinkedIn Profiles for 2012*  
     **LinkedIn**
 
 ----------------------------------

@@ -6,10 +6,11 @@ OBJECTIVE
 
 To make ad hoc changes to career highlights as they occur.
 
-For a more accurate, vetted resume, visit LinkedIn:
+For a more accurate, vetted resume, visit:
 
-* [Direct Profile](http://www.linkedin.com/in/joaquincasares)
-* [Full Profile](http://www.linkedin.com/profile/view?id=46810484)
+* [LinkedIn (Direct Profile)](http://www.linkedin.com/in/joaquincasares)
+* [LinkedIn (Full Profile)](http://www.linkedin.com/profile/view?id=46810484)
+* [PDF Resume (Download)](https://github.com/joaquincasares/resume/blob/master/jcasares_resume.2012.10.17.git.pdf?raw=true)
 
 ---------
 EDUCATION

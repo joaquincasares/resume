@@ -1,7 +1,15 @@
-Joaquin G. Casares
-------------------
-
 gmail: joaquin.casares
+
+---------
+OBJECTIVE
+---------
+
+To make ad hoc changes to career highlights as they occur.
+
+For a more accurate, vetted resume, visit LinkedIn:
+
+* [Direct Profile](http://www.linkedin.com/in/joaquincasares)
+* [Full Profile](http://www.linkedin.com/profile/view?id=46810484)
 
 ---------
 EDUCATION
@@ -221,13 +229,16 @@ TRAININGS
     *Scaling Search with Big Data & Solr*  
     **Lucid Imagination**  
 
-------
-AWARDS
-------
+------------
+ACHIEVEMENTS
+------------
 
 *   August 7, 2012  
     *2012 Engineering Customer Advocate*  
     **DataStax**  
+*   February 11, 2013  
+    *Top 10% most viewed LinkedIn profiles for 2012*  
+    **LinkedIn**
 
 ----------------------------------
 WHAT I LOOK FOR IN AN ORGANIZATION
@@ -236,4 +247,4 @@ WHAT I LOOK FOR IN AN ORGANIZATION
 * A solid technology
 * Innovative, forward-thinking team members
 * Flextime
-* Distributed work enviornment
+* Distributed work environment

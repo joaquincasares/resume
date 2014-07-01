@@ -13,7 +13,7 @@ For a more accurate, vetted resume, visit:
 
 # WORK HISTORY
 
-December 2012 - Present  
+December 2012 – Present (1 year 8+ months)  
 **DataStax**  
 *Software Engineer in Test*  
 Austin, Texas
@@ -35,7 +35,7 @@ Transitioned to the Test and Release Engineering Team of 15 engineers. In combin
     * Enhanced practical and theoretical aspects of a successful OSCON 2013 marketing campaign.
 
 
-January 2011 – January 2013  
+January 2011 – January 2013 (2 years 1 month)  
 **DataStax**  
 *Senior Support Engineer / Cloud Tools Engineer*  
 Austin, Texas  
@@ -61,7 +61,7 @@ Lead support in a small team for DataStax Enterprise: an enterprise database wit
     * Attend and present at Cassandra Austin Meetups and associated groups.
 
 
-October 2010 – March 2012  
+October 2010 – March 2012 (1 year 6 months)  
 **Digital Precision**  
 *Founder / Animation Expert*  
 Austin, Texas  
@@ -72,7 +72,7 @@ Founded a three-dimensional animation business in the central Texas region.
 * Research and consultation for multiple projection mapping projects using Blender.
 
 
-August 2008 – January 2011  
+August 2008 – January 2011 (2 years 6 months)  
 **~FAST Tex / Digital Media Services**  
 *Student Programmer / Software Designer*  
 Austin, Texas  
@@ -84,7 +84,7 @@ Began in the intradepartmental Digital Media Services performing training and su
 * Confront a variety of issues and tasks under minimal supervision in a rapid, interactive setting.
 
 
-June 2007 – May 2009  
+June 2007 – May 2009 (2 years)  
 **Self-Employed Legal Animation Contractor**  
 *Collision Reconstruction Animator*  
 Eagle Pass, Texas  

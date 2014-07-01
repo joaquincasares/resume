@@ -243,6 +243,7 @@ Contributed small fixes and enhancements for sleek Python API interfaces.
 *   August 7, 2012  
     *2012 Engineering Customer Advocate*  
     **DataStax**  
+
 <!---
 *   February 11, 2013  
     *Top 10% Most Viewed LinkedIn Profiles for 2012*  

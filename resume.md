@@ -1,10 +1,8 @@
 gmail: joaquin.casares
 
----------
-OBJECTIVE
----------
+# OBJECTIVE
 
-To make ad hoc changes to career highlights as they occur.
+To make ad hoc changes for career highlights as they occur. This text-based document is later used to produce my "official" resume.
 
 For a more accurate, vetted resume, visit:
 
@@ -12,120 +10,29 @@ For a more accurate, vetted resume, visit:
 * [LinkedIn (Full Profile)](http://www.linkedin.com/profile/view?id=46810484)
 * [PDF Resume (Download)](https://github.com/joaquincasares/resume/blob/master/jcasares_resume.2012.10.17.git.pdf?raw=true)
 
----------
-EDUCATION
----------
 
-December 2010  
-**The University of Texas at Austin**  
-Austin, Texas  
-
-**Bachelor of Arts in Computer Science**  
-**Bachelor of Science in Radio-Television-Film**  
-**Interdisciplinary Study in Digital Arts & Media**
-
-185 credit-hours towards a double major and interdisciplinary program.  
-Completed *The Advanced Digital Media Institute* within The Division of Instructional Innovation and Assessment August 2009.  
-*New Media Initiative: ACTLab Program* alumni.
-
-------
-SKILLS
-------
-
-### Computer Science
-
-#### Operating Systems
-* Linux: Development and Support
-* Mac: Development
-* Windows: Personal
-
-#### Primary Languages
-* Python
-* Java
-* C/C++
-
-#### Resources
-* Amazon Web Services (AWS)
-    * Elastic Cloud Computing (EC2)
-    * Simple Storage Service (S3)
-* Apache Cassandra
-* Asynchronous Text-based Communication
-* Distributed Teams
-* Git
-* Jenkins
-* Jira
-
-#### Ideology
-* Automation
-* Big Data
-* Cloud Computing
-* Global Empowerment
-* RESTful APIs
-
-
-### Digital Art
-
-#### Three-dimensional
-* Blender
-* Maxon Cinema 4D
-* Unity
-
-#### Video Editing
-* Avid Xpress Pro HD
-* Final Cut Pro
-* Sony Vegas
-
-#### Audio Editing
-* Adobe Soundbooth
-* Digidesign ProTools
-* Sony Sound Forge
-
-#### Graphic Design
-* Adobe After Effects
-* Adobe Illustrator
-* Adobe Photoshop
-
-#### Resources
-* Basic Image Editing
-* Basic Music Theory
-
-#### Ideology
-* ACTLab Pedagogy (Fu Qui)
-* Extreme Freestyle Hacking
-* Projection Mapping
-* VizDev
-
-
-### Miscellaneous
-
-#### Office Productivity
-* Adobe Acrobat
-* Microsoft Office Specialist with Master Certification
-
-------------
-WORK HISTORY
-------------
+# WORK HISTORY
 
 December 2012 - Present  
 **DataStax**  
 *Software Engineer in Test*  
 Austin, Texas
 
-Transitioned to the Quality Assurance team of 15 engineers. In combination with developing a client-driver testing harness for multiple languages, I split time developing internal testing infrastructure and integrating with other departments.
+Transitioned to the Test and Release Engineering Team of 15 engineers. In combination with developing a client-driver testing harness for multiple languages, I split time developing internal testing infrastructure and integrating with other departments.
 
 * Drivers QA Engineer, working independently in a self-led role
-    * Bootstrap a harness for regression and performance testing of Cassandra client drivers that runs on Jenkins.
+    * Bootstrap regression harnesses for Cassandra client drivers.
     * Harness uses Jenkins, EC2, and Cassandra Cluster Manager for testing the Java and Python Drivers for Apache Cassandra. The same harness was later ported for the .NET Driver for Apache Cassandra by another team.
-    * Create over 4 demos for the community along with enterprise tools shipped with DSE.
+    * Create over 4 community demos, along with an additional demo and enterprise tools shipped with DSE.
 * Contribute to general QA tasks
     * Design and implement distributed failure simulation automation bots.
     * Maintain and improve performance regression testing infrastructure that runs on hardware and/or EC2.
-    * Build scraper and web server of reports for visibility into shared AWS accounts using the Boto API.
+    * Build dog food scraper and web server of reports for visibility into shared AWS accounts using the Boto API.
+    * Facilitate in the testing, development, and release of RightScale integration within our internal testing tool.
 * Collaborate with the Marketing team
-    * Delivered a 260 slide presentation in 5 minutes at Cassandra Summit 2013. Currently being expanded into a video format.
+    * Delivered a 260 slide presentation in 5 minutes at Cassandra Summit 2013 that was later converted to a video.
     * A member of a 3 person internal focus group between Marketing, Sales, and Engineering.
-    * Enhanced practical and theoretical aspects of a successful OSCON marketing campaign.
-    * Created an upcoming mail-in developer contest with the Community Manager.
+    * Enhanced practical and theoretical aspects of a successful OSCON 2013 marketing campaign.
 
 
 January 2011 – January 2013  
@@ -188,9 +95,97 @@ Creating scaled three-dimensional animations for use in mediation settlements. W
 * No supervision occurred other than the first and final meetings for each case. 
 * Mild, if existent, polishing touches were required.
 
------------
-OPEN SOURCE
------------
+# EDUCATION
+
+December 2010  
+**The University of Texas at Austin**  
+Austin, Texas  
+
+**Bachelor of Arts in Computer Science**  
+**Bachelor of Science in Radio-Television-Film**  
+**Interdisciplinary Study in Digital Arts & Media**
+
+185 credit-hours towards a double major and interdisciplinary program.  
+Completed *The Advanced Digital Media Institute* within The Division of Instructional Innovation and Assessment August 2009.  
+*New Media Initiative: ACTLab Program* alumni.
+Continuing member of the *ACTLab: Redux* community/scholastic group.
+
+# SKILLS
+
+### Computer Science
+
+#### Operating Systems
+* Linux: Development, Testing, Support
+* Mac: Development
+* Windows: Personal
+
+#### Primary Languages
+* Python
+* Java
+
+#### Resources
+* Amazon Web Services (AWS)
+    * Elastic Cloud Computing (EC2)
+    * Simple Storage Service (S3)
+* Apache Cassandra
+* Asynchronous Text-based Communication
+* Distributed Teams
+* Git
+* Jenkins
+* Jira
+
+#### Ideology
+* Automation
+* Big Data
+* Cloud Computing
+* Distributed Systems, Technological or Otherwise
+* Disruptive Technology
+* Global Empowerment
+* RESTful APIs
+
+
+### Digital Art
+
+#### Three-dimensional
+* Blender
+* Maxon Cinema 4D
+* Unity
+
+#### Video Editing
+* Avid Xpress Pro HD
+* Final Cut Pro
+* Sony Vegas
+
+#### Audio Editing
+* Adobe Soundbooth
+* Digidesign ProTools
+* Sony Sound Forge
+
+#### Graphic Design
+* Adobe After Effects
+* Adobe Illustrator
+* Adobe Photoshop
+
+#### Resources
+* Basic Image Editing
+* Basic Music Theory
+
+#### Ideology
+* ACTLab Pedagogy (Fu Qui)
+* Extreme Freestyle Hacking
+* Projection Mapping
+* VizDev
+
+
+<!---
+### Miscellaneous
+
+#### Office Productivity
+* Adobe Acrobat
+* Microsoft Office Specialist with Master Certification
+-->
+
+# OPEN SOURCE
 
 *   [riptano/ComboAMI](https://github.com/riptano/ComboAMI)
 
@@ -225,44 +220,39 @@ A cross-vendor Python library for WiFi LED products. (Future [NinjaBlocks](http:
 
 Contributed small fixes and enhancements for sleek Python API interfaces.
 
------------
-CONFERENCES
------------
+# ATTENDED CONFERENCES
 
 * Data Day Austin 2011
-* Cassandra SF 2011
+* Cassandra SF 2011 (Lightning Talk)
 * Devopsdays Austin Texas 2012
 * OSCON 2012
-* Cassandra Summit 2012
+* Cassandra Summit 2012 (Lightning Talk)
 * AWS re: Invent 2012
-* Cassandra Summit 2013
+* Cassandra Summit 2013 (Lightning Talk)
 * OSCON 2013
 * AWS re: Invent 2013
 
----------
-TRAININGS
----------
+# TRAININGS
 
 *   June 11-12, 2012  
     *Scaling Search with Big Data & Solr*  
     **Lucid Imagination**  
 
-------------
-ACHIEVEMENTS
-------------
+# ACHIEVEMENTS
 
 *   August 7, 2012  
     *2012 Engineering Customer Advocate*  
     **DataStax**  
+<!---
 *   February 11, 2013  
     *Top 10% Most Viewed LinkedIn Profiles for 2012*  
     **LinkedIn**
+-->
 
-----------------------------------
-WHAT I LOOK FOR IN AN ORGANIZATION
-----------------------------------
+# WHAT I LOOK FOR IN AN ORGANIZATION
 
 * A solid technology
 * Innovative, forward-thinking team members
+* Accountability
 * Flextime
 * Distributed work environment

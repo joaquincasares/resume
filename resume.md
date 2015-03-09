@@ -113,7 +113,7 @@ Lead support in a small team for DataStax Enterprise: an enterprise database wit
     * Keep track of all open issues to ensure proper resolution, providing technical guidance when necessary.
     * Manage support group when Director of Operations, and later Support Manager, were not readily available.
     * Lead on escalated cases, when needed.
-    * Train a team of 5 new hires upon transition out.
+    * Train a team of 6 new hires upon transition out.
 * Departmental infrastructure development
     * Create internal and external policies.
     * Create and continually develop a collection of tools, triggers, jobs, and widgets for internal benefit and management.

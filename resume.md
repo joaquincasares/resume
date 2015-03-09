@@ -134,7 +134,7 @@ October 2010 – March 2012 *(1 year 6 months)*
 **Digital Precision**  
 Austin, Texas  
 
-Founded a three-dimensional animation business in the central Texas region.
+Founded a three-dimensional animation business in the central Texas region. 
 
 * A three minute marketing demo for DataStax was conceptualized, modeled, and animated in two weeks time.
 * Research and consultation for multiple projection mapping projects using Blender.
@@ -162,7 +162,7 @@ Eagle Pass, Texas
 Creating scaled three-dimensional animations for use in mediation settlements. Worked with Knickerbocker, Heredia, Jasso & Stewart, P.C. for a majority of these projects.
 
 * All animations based on legal depositions and scientific consultation producing scaled renditions.
-* No supervision occurred other than the first and final meetings for each case.
+* No supervision occurred other than the first and final meetings for each case. 
 * Mild, if existent, polishing touches were required.
 
 # EDUCATION
@@ -177,7 +177,7 @@ Austin, Texas
 
 185 credit-hours towards a double major and interdisciplinary program.  
 Completed *The Advanced Digital Media Institute* within The Division of Instructional Innovation and Assessment, August 2009.  
-*New Media Initiative: ACTLab Program* alumni.  
+*New Media Initiative: ACTLab Program* alumni.
 Continuing member of the *ACTLab: Redux* community/scholastic group.
 
 # SKILLS
@@ -228,7 +228,7 @@ Continuing member of the *ACTLab: Redux* community/scholastic group.
     * Simple Storage Service (S3)
     * Amazon Machine Images (AMI)
 * DigitalOcean
-
+    
 **Project Management**
 * Git
 * Jenkins
@@ -310,7 +310,7 @@ Continuing member of the *ACTLab: Redux* community/scholastic group.
 
 *   [datastax-demos/cornerstone](https://github.com/datastax-demos/cornerstone)
 
-Proof of concept, training, and delivery platform for quickly and efficiently developing viable proof of concepts as well as assessing DataStax Partner's aptitude. Feeds directly into the DataStax Demo Portal for current internal and planned partner, training, and possible public consumption.
+Proof of concept, training, and delivery platform for quickly and efficiently developing viable proof of concepts as well as assessing DataStax Partner's aptitude. Feeds directly into the DataStax Demo Portal for current internal and planned partner, training, and possible public consumption. 
 
 *   [datastax/python-driver](https://github.com/datastax/python-driver)
 
@@ -318,7 +318,7 @@ Ported and extended the test suite from the DataStax Java Driver for Apache Cass
 
 *   [datastax/java-driver](https://github.com/datastax/java-driver)
 
-Developed the foundation of unit, integration, and duration tests used to ensure the functionality, reliability, and capability of the first DataStax Driver for Apache Cassandra. Used as a basis for testing future drivers.
+Developed the foundation of unit, integration, and duration tests used to ensure the functionality, reliability, and capability of the first DataStax Driver for Apache Cassandra. Used as a basis for testing future drivers. 
 
 *   [riptano/ComboAMI](https://github.com/riptano/ComboAMI)
 

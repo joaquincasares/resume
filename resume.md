@@ -328,7 +328,7 @@ Official DataStax Amazon Machine Image that began as a side project and is curre
 Allows for the DataStax AMI to run from the command line while removing common user errors. End-to-end time to a cluster of any size is ~5 minutes. 117,000+ PyPI downloads.
 
 
-# ATTENDED CONFERENCES
+# CONFERENCES
 
 **Attendee**
 

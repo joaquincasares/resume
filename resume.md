@@ -42,8 +42,8 @@ August 2012 – Present *(8+ months)*
 **DataStax**  
 Austin, Texas
 
-**Manager**: Paul Gilman - *Director, North America Solution Engineering* - current  
-**Manager**: Tupshin Harper - *Global Field Strategy Lead* - 7 months
+**Manager**: Paul Gilman, Chicago - *Director, North America Solution Engineering* - current  
+**Manager**: Tupshin Harper, New York - *Global Field Strategy Lead* - 7 months
 
 Transitioned to the single-person Demo Engineering team under Pre-Sales' SWAT Team manager when DataStax had 303 employees.
 
@@ -73,8 +73,8 @@ December 2012 – July 2014 *(1 year 8 months)*
 **DataStax**  
 Austin, Texas
 
-**Manager**: Rick Smith - *Software Engineering Manager* - 2 months  
-**Manager**: Cathy Daw - *VP, Test & Release Engineering* - 18 months
+**Manager**: Rick Smith, Daytona Beach - *Software Engineering Manager* - 2 months  
+**Manager**: Cathy Daw, Santa Clara - *VP, Test & Release Engineering* - 18 months
 
 Transitioned to the Test & Release Engineering Team of 15 engineers. In combination with developing a client-driver testing harness for multiple languages, I split time developing internal testing infrastructure and integrating with other departments.
 
@@ -101,8 +101,8 @@ January 2011 – January 2013 *(2 years 1 month)*
 **DataStax**  
 Austin, Texas  
 
-**Manager**: Jaci Wilson - *Technical Support Manager* - 9 months  
-**Manager**: Ben Coverston - *Director of Operations* - 16 months
+**Manager**: Jaci Wilson, San Mateo - *Technical Support Manager* - 9 months  
+**Manager**: Ben Coverston, Salt Lake City - *Director of Operations* - 16 months
 
 Lead support in a small team for DataStax Enterprise: an enterprise database with analytics, search, and operational offerings powered by Apache Cassandra. Employee number 19.
 

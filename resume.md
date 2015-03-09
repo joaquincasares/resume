@@ -298,7 +298,7 @@ Continuing member of the *ACTLab: Redux* community/scholastic group.
 * [reddit](http://reddit.com): the front page of the internet
 
 **Geek Culture**
-* [Bitcoin Blockchain](http://en.wikipedia.org/wiki/Bitcoin#Block_Chain): a public [ledger](http://en.wikipedia.org/wiki/Ledger) that records bitcoin transactions... a [distributed database](http://en.wikipedia.org/wiki/Distributed_database).
+* [Bitcoin Blockchain](http://en.wikipedia.org/wiki/Bitcoin#Block_Chain): "a public [ledger](http://en.wikipedia.org/wiki/Ledger) that records bitcoin transactions... a [distributed database](http://en.wikipedia.org/wiki/Distributed_database)."
 * Quantified Self
     * [RescueTime](http://rescuetime.com): Time Management Tracking
     * [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep): Sleep Tracking Software

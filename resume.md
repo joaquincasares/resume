@@ -87,7 +87,7 @@ Transitioned to the Test & Release Engineering Team of 15 engineers. In combinat
     * Train a team of 3 new hires upon transition out.
 * Contribute to general Test & Release tasks
     * Design and implement distributed failure simulation automation bots.
-    * Maintain and improve performance regression testing infrastructure that runs on hardware and/or EC2.
+    * Maintain and improve performance regression testing infrastructure that runs on hardware and EC2.
     * Build dog food scraper and web server of reports for visibility into shared AWS accounts using the Boto API.
     * Facilitate in the research, testing, development, and release of RightScale integration within our internal testing tool.
 * Collaborate with the Marketing team

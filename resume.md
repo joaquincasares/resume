@@ -294,7 +294,7 @@ Continuing member of the *ACTLab: Redux* community/scholastic group.
 * [Product Hunt](http://producthunt.com): Startup Tracking
 * [Ars Technica](http://arstechnica.com): Technology Meets Legality
 * [Wired](http://wired.com): Technology Trends
-* [VICE](http://vice.com): Immersion Journalism of Underreported Topics
+* [VICE (Possibly NSFW)](http://vice.com): Immersion Journalism of Underreported Topics
 
 **Geek Culture**
 * Bitcoin Blockchain

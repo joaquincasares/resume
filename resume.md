@@ -16,10 +16,10 @@
   - [Digital Art](#digital-art)
   - [Miscellaneous](#miscellaneous)
 - [OPEN SOURCE](#open-source)
-- [ATTENDED CONFERENCES](#attended-conferences)
+- [CONFERENCES](#conferences)
 - [TRAININGS](#trainings)
 - [ACHIEVEMENTS](#achievements)
-- [WHAT I LOOK FOR IN AN ORGANIZATION](#what-i-look-for-in-an-organization)
+- [ORGANIZATIONAL REQUIREMENTS](#organizational-requirements)
 - [CONTACT](#contact)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -378,7 +378,7 @@ Allows for the DataStax AMI to run from the command line while removing common u
     *2012 Engineering Customer Advocate*  
     **DataStax**  
 
-# WHAT I LOOK FOR IN AN ORGANIZATION
+# ORGANIZATIONAL REQUIREMENTS
 
 * A solid technology
 * Innovative, forward-thinking team members

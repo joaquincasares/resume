@@ -50,11 +50,9 @@ Transitioned to the single-person Demo Engineering team under Pre-Sales' SWAT Te
 * Integrate with various departments to provide a streamlined full-stack development experience for proof of concept and training scenarios
     * Create environment after quickly learning and implementing a solution using Vagrant, Docker, Flask, DataStax Enterprise, DataStax Driver for Apache Cassandra, Jinja2, Google Charts, and Metagener in Python. Planned port to Java.
     * Current integration: Partner Enablement.
-    * Planned integration: Sales Engineers, Solutions Architects, Partners, Training, Support, Community, and Documentation.
 * Develop, deploy, and maintain the DataStax Demo Portal
     * Create environment using Flask, DataStax Enterprise, and EC2 to automate the delivery of one-click multi-node Docker-based demos. Vagrant-based demo support planned.
     * Current integration: Inside Sales Engineers, Marketing, and Engineering.
-    * Planned integration: Sales, Sales Engineers, Solutions Architects, Partners, Training, Support, Community, and Documentation.
 * Internal and external trainings and certifications
     * Solely create challenging full-stack certification outline to test partner knowledge both inside and outside my personal range of knowledge.
     * Integrate with Partner Enablement and Solutions Architects for full deliverable and execution.

@@ -53,17 +53,17 @@ Transitioned to the single-person Demo Engineering team under Pre-Sales' SWAT Te
 * Develop, deploy, and maintain the DataStax Demo Portal
     * Create environment using Flask, DataStax Enterprise, and EC2 to automate the delivery of one-click multi-node Docker-based demos. Vagrant-based demo support planned.
     * Current integration: Inside Sales Engineers, Marketing, and Engineering.
-* *Partner Enablement*: Internal and external trainings and certifications
+* **Partner Enablement**: Internal and external trainings and certifications
     * Solely create challenging full-stack certification outline to test partner knowledge both inside and outside my personal range of knowledge.
     * Integrate with Partner Enablement and Solutions Architects for full deliverable and execution.
     * Test knowledge on: data modeling, use case digestion and expansion, environment setup, data ingestion from CSV files and REST APIs, bulk export, basic data visualization, Spark SQL, Spark, Spark Streaming, Solr search and geosearch, data modeling corrections, and automatic data replication.
-* *Inside Sales Engineers*: Facilitate with primary and secondary touch points
-* *Marketing*: Maintain and deploy existing demos in conference setting
+* **Inside Sales Engineers**: Facilitate with primary and secondary touch points
+* **Marketing**: Maintain and deploy existing demos in conference setting
     * Ensure the ability of conference demos to be delivered by either in-person or remote support means.
     * Develop Vagrant-based infrastructure to ensure reproducible delivery.
     * Research cutting edge micro-computing technologies for planned future delivery.
     * Create physical purchasing package for international deployment.
-* *Engineering*: Facilitate the adoption of our internal testing framework Automaton.
+* **Engineering**: Facilitate the adoption of our internal testing framework Automaton.
 * JIRA project management with company-wide visibility
     * Self-prioritize and manage action items to meet company-wide goals, of varying priority, in a timely manner.
 * Core working hours: 9AM - 5PM (+2 additional hours after 10pm, when capable)

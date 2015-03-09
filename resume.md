@@ -57,8 +57,8 @@ Transitioned to the single-person Demo Engineering team under Pre-Sales' SWAT Te
     * Planned integration: Sales, Sales Engineers, Solutions Architects, Partners, Training, Support, Community, and Documentation.
 * Internal and external trainings and certifications
     * Solely create challenging full-stack certification outline to test partner knowledge both inside and outside my personal range of knowledge.
+    * Integrate with Partner Enablement and Solutions Architects for full deliverable and execution.
     * Test knowledge on: data modeling, use case digestion and expansion, environment setup, data ingestion from CSV files and REST APIs, bulk export, basic data visualization, Spark SQL, Spark, Spark Streaming, Solr search and geosearch, data modeling corrections, and automatic data replication.
-    * Integrate with Partner Enablement and Solutions Architects for full deliverable.
 * JIRA project management with company-wide visibility
     * Self-prioritize and manage action items to meet company-wide goals, of varying priority, in a timely manner.
 * Maintain and deploy existing demos in conference setting

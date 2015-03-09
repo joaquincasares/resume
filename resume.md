@@ -167,7 +167,6 @@ Creating scaled three-dimensional animations for use in mediation settlements. W
 
 # EDUCATION
 
-December 2010  
 **The University of Texas at Austin**  
 Austin, Texas  
 
@@ -176,7 +175,7 @@ Austin, Texas
 **Interdisciplinary Study in Digital Arts & Media**
 
 185 credit-hours towards a double major and interdisciplinary program.  
-Completed *The Advanced Digital Media Institute* within The Division of Instructional Innovation and Assessment, August 2009.  
+Completed *The Advanced Digital Media Institute* within The Division of Instructional Innovation and Assessment.  
 *New Media Initiative: ACTLab Program* alumni.
 Continuing member of the *ACTLab: Redux* community/scholastic group.
 

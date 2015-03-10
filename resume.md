@@ -63,7 +63,7 @@ Transitioned to the single-person Demo Engineering team under Pre-Sales' SWAT Te
     * Develop Vagrant-based infrastructure to ensure reproducible delivery.
     * Research cutting edge micro-computing technologies for planned future delivery.
     * Create physical purchasing package for international deployment.
-* Engineering: Facilitate the adoption of our internal testing framework Automaton.
+* Engineering: Facilitate the adoption of our internal testing framework Automaton
 * JIRA project management with company-wide visibility
     * Self-prioritize and manage action items to meet company-wide goals, of varying priority, in a timely manner.
 * Core working hours: 9AM - 5PM (+2 additional hours after 10pm, when capable)

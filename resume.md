@@ -333,10 +333,10 @@ Allows for the DataStax AMI to run from the command line while removing common u
 
 **Attendee**
 
-* Data Visualization Innovation Summit 2015 (Planned)
-* AWS re: Invent 2014
-* AWS re: Invent 2013
-* AWS re: Invent 2012
+* AWS re:Invent 2015 (Planned)
+* AWS re:Invent 2014
+* AWS re:Invent 2013
+* AWS re:Invent 2012
 * Devopsdays Austin Texas 2012
 * Data Day Austin 2011
 

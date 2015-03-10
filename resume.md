@@ -57,7 +57,7 @@ Transitioned to the single-person Demo Engineering team under Pre-Sales' SWAT Te
     * Solely create challenging full-stack certification outline to test partner knowledge both inside and outside my personal range of knowledge.
     * Integrate with Partner Enablement and Solutions Architects for full deliverable and execution.
     * Test knowledge on: data modeling, use case digestion and expansion, environment setup, data ingestion from CSV files and REST APIs, bulk export, basic data visualization, Spark SQL, Spark, Spark Streaming, Solr search and geosearch, data modeling corrections, and automatic data replication.
-* Inside Sales Engineers: Facilitate with primary and secondary touch points
+* Inside Sales Engineers: Facilitate with primary and secondary touch points with ready to launch product demonstrations
 * Marketing: Maintain and deploy existing demos in conference setting
     * Ensure the ability of conference demos to be delivered by either in-person or remote support means.
     * Develop Vagrant-based infrastructure to ensure reproducible delivery.
